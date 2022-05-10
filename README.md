@@ -1,2 +1,2 @@
-# Av2_DW2
+# Projeto avaliativo 2 de Desenvolvimento Web 2.
 2º Avaliação de Desenvolvimento Web 2 
