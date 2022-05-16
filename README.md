@@ -1,4 +1,4 @@
-## Projeto Cadastro
+## Projeto avaliativo de Desenvolvimento Web II - Fatec Araras
 
 Projeto para cadastro de Animais.
 Nesse cadastro, teremos as seguintes informações:
