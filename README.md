@@ -1,2 +1,18 @@
-# Projeto avaliativo 2 de Desenvolvimento Web 2.
-2º Avaliação de Desenvolvimento Web 2 
+## Projeto Cadastro
+
+Projeto para cadastro de Animais.
+Nesse cadastro, teremos as seguintes informações:
+
+* Nome
+* Tipo de Animal
+* Raça
+* Tamanho
+
+Vamos utilizar banco de dados MySQL e orientação a objetos para separar o acesso ao banco de dados.
+
+### CRUD
+
+* Create
+* Read
+* Update
+* Delete
